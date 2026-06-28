@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="zh-CN">
+  <info><title>vas</title><id>vas</id><updated>2024-01-01T00:00:00+00:00</updated></info>
+  <citation><layout prefix="(" suffix=")"><text variable="author"/></layout></citation>
+  <bibliography>
+    <sort><key variable="author"/></sort>
+    <layout><text variable="title"/></layout>
+  </bibliography>
+</style>

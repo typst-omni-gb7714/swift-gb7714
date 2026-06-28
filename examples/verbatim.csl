@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="zh-CN">
+  <info>
+    <title>Verbatim Passthrough (numeric)</title>
+    <id>verbatim-passthrough-numeric</id>
+    <updated>2024-01-01T00:00:00+00:00</updated>
+  </info>
+  <citation collapse="citation-number">
+    <layout prefix="[" suffix="]" delimiter=",">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography>
+    <layout>
+      <text variable="citation-number" prefix="[" suffix="]"/>
+      <text variable="title" prefix="  "/>
+    </layout>
+  </bibliography>
+</style>

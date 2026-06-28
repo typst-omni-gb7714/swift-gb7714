@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="zh-CN">
+  <info><title>vh</title><id>vh</id><updated>2024-01-01T00:00:00+00:00</updated></info>
+  <citation><layout prefix="[" suffix="]"><text variable="citation-number"/></layout></citation>
+  <bibliography hanging-indent="true" second-field-align="flush" entry-spacing="0" line-spacing="1">
+    <layout>
+      <text variable="citation-number" prefix="[" suffix="]"/>
+      <text variable="title"/>
+    </layout>
+  </bibliography>
+</style>

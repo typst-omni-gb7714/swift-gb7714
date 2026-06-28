@@ -1,0 +1,12 @@
+E_c:
+  type: book
+  author: "zzz_pinyin_last"
+  title: "条目C —— 引用顺序里第1个出现，但排序键最大，应排到第3"
+E_a:
+  type: book
+  author: "aaa_pinyin_first"
+  title: "条目A —— 引用顺序里第2个出现，但排序键最小，应排到第1"
+E_b:
+  type: book
+  author: "mmm_pinyin_mid"
+  title: "条目B —— 引用顺序里第3个出现，排序键居中，应排到第2"
